@@ -26,6 +26,10 @@ public class CalculadoraSimple {
             System.out.println("División: "+ div);
         }
 
+       //Multiplicación
+       int multiplicacion = a * b;
+        System.out.println ("Multiplicación: " + multiplicacion);
+
         scanner.close();
 
         
